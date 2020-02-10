@@ -1,2 +1,2 @@
 # githubTutorial
-tut tut tut
+This is going to be a repository to showcase some blah blah
